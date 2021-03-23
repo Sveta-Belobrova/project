@@ -1,0 +1,16 @@
+E:\помощник\project1\project1\bin\Debug\project1.exe.config
+E:\помощник\project1\project1\bin\Debug\project1.exe
+E:\помощник\project1\project1\bin\Debug\project1.pdb
+E:\помощник\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+E:\помощник\project1\project1\obj\Debug\project1.Form1.resources
+E:\помощник\project1\project1\obj\Debug\project1.Form2.resources
+E:\помощник\project1\project1\obj\Debug\project1.Form3.resources
+E:\помощник\project1\project1\obj\Debug\project1.Form4.resources
+E:\помощник\project1\project1\obj\Debug\project1.Form5.resources
+E:\помощник\project1\project1\obj\Debug\project1.Properties.Resources.resources
+E:\помощник\project1\project1\obj\Debug\project1.csproj.GenerateResource.Cache
+E:\помощник\project1\project1\obj\Debug\project1.exe
+E:\помощник\project1\project1\obj\Debug\project1.pdb
+E:\помощник\project1\project1\obj\Debug\project1.Form6.resources
+E:\помощник\project1\project1\obj\Debug\project1.Form7.resources
+E:\помощник\project1\project1\obj\Debug\project1.Form8.resources
