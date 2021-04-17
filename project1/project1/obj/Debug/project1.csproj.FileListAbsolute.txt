@@ -14,3 +14,11 @@ E:\помощник\project1\project1\obj\Debug\project1.pdb
 E:\помощник\project1\project1\obj\Debug\project1.Form6.resources
 E:\помощник\project1\project1\obj\Debug\project1.Form7.resources
 E:\помощник\project1\project1\obj\Debug\project1.Form8.resources
+E:\помощник\project1\project1\obj\Debug\Interop.STDUDjVuFile.dll
+E:\помощник\project1\project1\obj\Debug\Interop.STDUFB2File.dll
+E:\помощник\project1\project1\obj\Debug\Interop.STDUPDFFile.dll
+E:\помощник\project1\project1\obj\Debug\Interop.STDUViewer.dll
+E:\помощник\project1\project1\obj\Debug\project1.csproj.ResolveComReference.cache
+E:\помощник\project1\project1\obj\Debug\project1.Form9.resources
+E:\помощник\project1\project1\obj\Debug\project1.Form10.resources
+E:\помощник\project1\project1\obj\Debug\project1.Form11.resources

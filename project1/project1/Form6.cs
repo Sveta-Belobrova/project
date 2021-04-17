@@ -38,7 +38,7 @@ namespace project1
             int UspeshnoeIzmenenie = myCommand.ExecuteNonQuery();
             if (UspeshnoeIzmenenie != 0)
             {
-                MessageBox.Show("изменение блюда внесены");
+                MessageBox.Show("изменение автора внесены");
             }
             else
             {

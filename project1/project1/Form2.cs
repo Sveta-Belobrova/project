@@ -27,7 +27,7 @@ namespace project1
 
                 SqlCommand myCommand = cann.CreateCommand();
 
-                myCommand.CommandText = "INSERT INTO" + " pols(famil, name, otes, voz, admit, password)  VALUES(@TouristID, @Family, @Ris, @Gi, @Dir, @Six)";
+                myCommand.CommandText = "INSERT INTO" + " pols(famil, name, otes, voz, admit, password, email)  VALUES(@TouristID, @Family, @Ris, @Gi, @Dir, @Six, @Seven)";
                 myCommand.Parameters.Add("@TouristID", SqlDbType.NVarChar, 150);
                 myCommand.Parameters["@TouristID"].Value = this.textBox1.Text;
                 myCommand.Parameters.Add("@Family", SqlDbType.NVarChar, 150);
@@ -38,14 +38,16 @@ namespace project1
                 myCommand.Parameters["@Gi"].Value = this.textBox4.Text;
                 myCommand.Parameters.Add("@Dir", SqlDbType.NVarChar, 150);
                 myCommand.Parameters["@Dir"].Value = this.textBox5.Text;
-                myCommand.Parameters.Add("@Six", SqlDbType.NVarChar, 150);
+                myCommand.Parameters.Add("@Six", SqlDbType.NVarChar, 8);
                 myCommand.Parameters["@Six"].Value = this.textBox6.Text;
+                myCommand.Parameters.Add("@Seven", SqlDbType.NVarChar, 150);
+                myCommand.Parameters["@Seven"].Value = this.textBox6.Text;
 
 
                 int UspeshnoeIzmenenie = myCommand.ExecuteNonQuery();
                 if (UspeshnoeIzmenenie != 0)
                 {
-                    MessageBox.Show("изменение блюда внесены");
+                    MessageBox.Show("добавление пользователя успешно завершилось");
                 }
                 else
                 {
@@ -53,6 +55,11 @@ namespace project1
                 }
                 cann.Close();
             }
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
